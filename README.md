@@ -1,7 +1,15 @@
 
 ## **pgomez-r🧉**  
-  
+
+### NOTION PAGE WITH 42 ORIENTED RESOURCES (Click bellow)
+
 [![Lista de recursos en NOTION](https://user-images.githubusercontent.com/115219064/215093235-c08aaa41-37c9-4399-b630-5e942af74e71.png)](https://billowy-vermicelli-8e6.notion.site/42-M-laga-5d9a971e88244325a734d7a13b8eb37d)
+
+[![pgomez-r 's 42 stats](https://badge.mediaplus.ma/black/pgomez-r)](https://github.com/oakoudad/badge42)
+
+### 42 COMMOM CORE REPO [pgomez-r] Still in progress (Click bellow)
+
+[![REPO_42](https://raw.githubusercontent.com/jotavare/jotavare/main/42/banners/resources/github_resources_banner_piscine_and_common_core.png)](https://github.com/pgomez-r/42M)
 
 ## Skill Set 
 
