@@ -1,13 +1,14 @@
 
 ## **pgomez-r🧉**  
 
-### Notion page with resources related to 42 and coding overall (Click bellow)
+### Notion page with resources related to 42 and coding overall (Click image bellow)
 
 [![Lista de recursos en NOTION](https://user-images.githubusercontent.com/115219064/215093235-c08aaa41-37c9-4399-b630-5e942af74e71.png)](https://billowy-vermicelli-8e6.notion.site/42-M-laga-5d9a971e88244325a734d7a13b8eb37d)
 
-### My 42-cursus repo [pgomez-r] Still in progress (Click bellow)
+### My 42-cursus repo [pgomez-r] Still in progress (Click image bellow)
 
 [![REPO_42](https://raw.githubusercontent.com/jotavare/jotavare/main/42/banners/resources/github_resources_banner_piscine_and_common_core.png)](https://github.com/pgomez-r/42M)
+(Banner is provisional, I stole this one from jotavare 42-resources repo)
 
 ## Skill Set 
 
