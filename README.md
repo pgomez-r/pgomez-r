@@ -3,11 +3,11 @@
 
 ### Notion page with resources related to 42 and coding overall (Click image bellow)
 
-[![Lista de recursos en NOTION](https://user-images.githubusercontent.com/115219064/215093235-c08aaa41-37c9-4399-b630-5e942af74e71.png)](https://billowy-vermicelli-8e6.notion.site/42-M-laga-5d9a971e88244325a734d7a13b8eb37d)
+[![42_NOTION](https://github.com/pgomez-r/pgomez-r/assets/115219064/b2e7183a-8a86-4464-9312-4fda05f7a84c)](https://billowy-vermicelli-8e6.notion.site/42-M-laga-5d9a971e88244325a734d7a13b8eb37d)
 
 ### My 42-cursus repo [pgomez-r] Still in progress (Click image bellow)
 
-[![REPO_42](https://github.com/pgomez-r/pgomez-r/assets/115219064/bebb8fa9-7411-4f7b-b170-ff8fa98c1f7b)](https://github.com/pgomez-r/42M)
+[![42_banner_repo](https://github.com/pgomez-r/pgomez-r/assets/115219064/6af7b382-0995-409b-804c-075c09d0ea98)](https://github.com/pgomez-r/42M)
 
 ## Skill Set 
 
