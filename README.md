@@ -3,10 +3,10 @@
 
 <p align="center">
   <a href="https://billowy-vermicelli-8e6.notion.site/42-M-laga-5d9a971e88244325a734d7a13b8eb37d">
-    <img src="https://github.com/pgomez-r/pgomez-r/assets/115219064/b2e7183a-8a86-4464-9312-4fda05f7a84c" alt="Image 1" style="width:50%;margin-right:15%;">
+    <img src="https://github.com/pgomez-r/pgomez-r/assets/115219064/b2e7183a-8a86-4464-9312-4fda05f7a84c" alt="Image 1" style="width:40%;margin-right:15%;">
   </a>
   <a href="https://github.com/pgomez-r/42M">
-    <img src="https://github.com/pgomez-r/pgomez-r/assets/115219064/6af7b382-0995-409b-804c-075c09d0ea98" alt="Image 2" style="width:50%;">
+    <img src="https://github.com/pgomez-r/pgomez-r/assets/115219064/6af7b382-0995-409b-804c-075c09d0ea98" alt="Image 2" style="width:40%;">
   </a>
 </p>
 
