@@ -7,7 +7,7 @@
   <a href="https://billowy-vermicelli-8e6.notion.site/42-M-laga-5d9a971e88244325a734d7a13b8eb37d" style="margin-right: 10px;">
     <img src="https://github.com/pgomez-r/pgomez-r/assets/115219064/b2e7183a-8a86-4464-9312-4fda05f7a84c" alt="Image 1" style="width:45%;">
   </a>
-  <a href="https://github.com/pgomez-r/42Mm" style="margin-left: 10px;">
+  <a href="https://github.com/pgomez-r/42M" style="margin-left: 10px;">
     <img src="https://github.com/pgomez-r/pgomez-r/assets/115219064/6af7b382-0995-409b-804c-075c09d0ea98" alt="Image 2" style="width:45%;">
   </a>
 </div>
@@ -29,15 +29,15 @@
 
 ## About me
 
-On my way to becoming a software developer, learning new things everyday at 42 Málaga Programming School, working as data entry operator for an app/website and carrying out my own projects. 
+On my way to becoming a `software developer`, learning new things everyday at `42 Málaga` Programming School, working as data entry operator for an app/website and carrying out my own projects. 
 
 ## **Skills** 
 
-[![Current Skills](https://skillicons.dev/icons?i=c,bash,linux,vim,vscode,atom,git,github&perline=12)](https://skillicons.dev)
+[![Current Skills](https://skillicons.dev/icons?i=c,cpp,bash,linux,vim,vscode,atom,git,github&perline=12)](https://skillicons.dev)
 
 ### Learning / Interested in
 
-[![Learning / Interested in](https://skillicons.dev/icons?i=cpp,py,docker,html,css,js&perline=12)](https://skillicons.dev)
+[![Learning / Interested in](https://skillicons.dev/icons?i=py,java,docker,html,css,js&perline=12)](https://skillicons.dev)
 
 ## **42 Málaga Progress [Loading...]**  
 
