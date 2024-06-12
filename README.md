@@ -32,8 +32,9 @@
 
 ## About me
 
-On my way to becoming a `software developer`, learning new things everyday at `42 Málaga` Programming School, working as data entry operator for an app/website and carrying out my own projects. 
-
+- Becoming a `software developer` at [**42 Málaga**](https://www.42malaga.com/) while working as *data entry operator* for an app/website and carrying out my own projects. 
+- Focusing on `Backend`, `AI`, `Videogame Design`, `Automation Scripts`.
+- Also interested in `Productivity`, `Project managment`, `Knowledge Databases`.
 
 ## **Skills** 
 
@@ -49,28 +50,28 @@ On my way to becoming a `software developer`, learning new things everyday at `4
 [![Learning / Interested in](https://skillicons.dev/icons?i=py,java,docker,html,css,js&perline=12)](https://skillicons.dev)
 </div>
 
-## **42 Málaga Progress [Loading...]**  
+## **42 Málaga Progress**  
 
 <div align="center">
 
 | Project | Language | Grade | Last Commit | Readme |
 | :--- | :--- | :--- | :--- | :--- |
 | [Libft](https://github.com/pgomez-r/libft) | <img src="https://img.shields.io/github/languages/top/pgomez-r/libft"/> | <img src="https://img.shields.io/badge/116%20%2F%20100-success"/> | <img src="https://img.shields.io/github/last-commit/pgomez-r/libft"/> | |
-| ft_printf | - | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> |  | |
-| get_next_line | - | <img src="https://img.shields.io/badge/125%20%2F%20100-success"/> |  |  |
-| born2beroot | - | <img src="https://img.shields.io/badge/125%20%2F%20100-success"/> |  |  |
-| push_swap | - | <img src="https://img.shields.io/badge/118%20%2F%20100-success"/> |  |  |
-| pipex | - | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> |  |  |
-| so_long | - | <img src="https://img.shields.io/badge/125%20%2F%20100-success"/> |  |  |
-| philosophers | - | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> |  |  |
-| minishell💀 | - | <img src="https://img.shields.io/badge/101%20%2F%20100-success"/> |  |  |
+| [ft_printf](https://github.com/pgomez-r/ft_printf) | <img src="https://img.shields.io/github/languages/top/pgomez-r/ft_printf"/> | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | <img src="https://img.shields.io/github/last-commit/pgomez-r/ft_printf"/> | |
+| [get_next_line](https://github.com/pgomez-r/get_next_line) | <img src="https://img.shields.io/github/languages/top/pgomez-r/get_next_line"/> | <img src="https://img.shields.io/badge/125%20%2F%20100-success"/> | <img src="https://img.shields.io/github/last-commit/pgomez-r/get_next_line"/> |  |
+| [born2beroot](https://github.com/pgomez-r/born2beroot) | <img src="https://img.shields.io/github/languages/top/pgomez-r/born2beroot"/> | <img src="https://img.shields.io/badge/125%20%2F%20100-success"/> | <img src="https://img.shields.io/github/last-commit/pgomez-r/born2beroot"/> |  |
+| [push_swap](https://github.com/pgomez-r/push_swap) | <img src="https://img.shields.io/github/languages/top/pgomez-r/push_swap"/> | <img src="https://img.shields.io/badge/118%20%2F%20100-success"/> | <img src="https://img.shields.io/github/last-commit/pgomez-r/push_swap"/> |  |
+| [pipex](https://github.com/pgomez-r/pipex) | <img src="https://img.shields.io/github/languages/top/pgomez-r/pipex"/> | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | <img src="https://img.shields.io/github/last-commit/pgomez-r/pipex"/> |  |
+| [so_long](https://github.com/pgomez-r/so_long) | <img src="https://img.shields.io/github/languages/top/pgomez-r/so_long"/> | <img src="https://img.shields.io/badge/125%20%2F%20100-success"/> | <img src="https://img.shields.io/github/last-commit/pgomez-r/so_long"/> |  |
+| [philosophers](https://github.com/pgomez-r/philosophers) | <img src="https://img.shields.io/github/languages/top/pgomez-r/philosophers"/> | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> | <img src="https://img.shields.io/github/last-commit/pgomez-r/philosophers"/> |  |
+| [minishell💀](https://github.com/pgomez-r/minishell) | <img src="https://img.shields.io/github/languages/top/pgomez-r/minishell"/> | <img src="https://img.shields.io/badge/101%20%2F%20100-success"/> | <img src="https://img.shields.io/github/last-commit/pgomez-r/minishell"/> |  |
 | netpractice | - | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> |  |  |
-| cpp_modules00-04 | - | <img src="https://img.shields.io/badge/80%20%2F%20100-success"/> |  |  |
-| cub3d |  |  |  |  |
-| inception |  |  |  |  |
-| cpp_modules05-09 |  |  |  |  |
-| webserv |  |  |  |  |
-| ft_trascendence |  |  |  |  |
+| [cpp_modules_00-04](https://github.com/pgomez-r/cpp_00-04) | <img src="https://img.shields.io/github/languages/top/pgomez-r/cpp_00-04"/> | <img src="https://img.shields.io/badge/80%20%2F%20100-success"/> | <img src="https://img.shields.io/github/last-commit/pgomez-r/cpp_00-04"/> |  |
+| [cub3d](https://github.com/pgomez-r/42M/tree/main/CURSUS/cub3d) | <img src="https://img.shields.io/github/languages/top/pgomez-r/so_long"/> | <img src="https://img.shields.io/badge/in_progress-yellow"/> | <img src="https://img.shields.io/github/last-commit/pgomez-r/42M"/> |  |
+| inception |  | <img src="https://img.shields.io/badge/FORBIDDEN-A020F0"/>  |  |  |
+| cpp_modules05-09 |  | <img src="https://img.shields.io/badge/FORBIDDEN-A020F0"/> |  |  |
+| webserv |  | <img src="https://img.shields.io/badge/FORBIDDEN-A020F0"/> |  |  |
+| ft_trascendence |  | <img src="https://img.shields.io/badge/FORBIDDEN-A020F0"/> |  |  |
 
 </div>
 
