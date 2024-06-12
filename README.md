@@ -7,8 +7,7 @@
 
 ### My 42-cursus repo [pgomez-r] Still in progress (Click image bellow)
 
-[![REPO_42](https://raw.githubusercontent.com/jotavare/jotavare/main/42/banners/resources/github_resources_banner_piscine_and_common_core.png)](https://github.com/pgomez-r/42M)
-(Banner is provisional, I stole this one from jotavare 42-resources repo)
+[![REPO_42](https://github.com/pgomez-r/pgomez-r/assets/115219064/bebb8fa9-7411-4f7b-b170-ff8fa98c1f7b)
 
 ## Skill Set 
 
