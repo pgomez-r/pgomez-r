@@ -53,24 +53,24 @@ On my way to becoming a `software developer`, learning new things everyday at `4
 
 <div align="center">
 
-| Project | Language | Grade | Last Commit |
-| :--- | :--- | :--- | :--- |
-| [Libft](https://github.com/pgomez-r/libft) | <img src="https://img.shields.io/github/languages/top/pgomez-r/libft"/> | <img src="https://img.shields.io/badge/118%20%2F%20100-success"/> | <img src="https://img.shields.io/github/last-commit/pgomez-r/libft"/>
-| ft_printf | - | - | - |
-| get_next_line | - | - | - |
-| born2beroot | - | - | - |
-| push_swap | - | - | - |
-| pipex | - | - | - |
-| so_long | - | - | - |
-| philosophers | - | - | - |
-| minishell💀 | - | - | - |
-| netpractice | - | - | - |
-| cpp_modules00-04 | - | - | - |
-| cub3d | - | - | - |
-| inception | - | - | - |
-| cpp_modules05-09 | - | - | - |
-| webserv | - | - | - |
-| ft_trascendence | - | - | - |
+| Project | Language | Grade | Last Commit | Readme |
+| :--- | :--- | :--- | :--- | :--- |
+| [Libft](https://github.com/pgomez-r/libft) | <img src="https://img.shields.io/github/languages/top/pgomez-r/libft"/> | <img src="https://img.shields.io/badge/116%20%2F%20100-success"/> | <img src="https://img.shields.io/github/last-commit/pgomez-r/libft"/> | |
+| ft_printf | - | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> |  | |
+| get_next_line | - | <img src="https://img.shields.io/badge/125%20%2F%20100-success"/> |  |  |
+| born2beroot | - | <img src="https://img.shields.io/badge/125%20%2F%20100-success"/> |  |  |
+| push_swap | - | <img src="https://img.shields.io/badge/118%20%2F%20100-success"/> |  |  |
+| pipex | - | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> |  |  |
+| so_long | - | <img src="https://img.shields.io/badge/125%20%2F%20100-success"/> |  |  |
+| philosophers | - | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> |  |  |
+| minishell💀 | - | <img src="https://img.shields.io/badge/101%20%2F%20100-success"/> |  |  |
+| netpractice | - | <img src="https://img.shields.io/badge/100%20%2F%20100-success"/> |  |  |
+| cpp_modules00-04 | - | <img src="https://img.shields.io/badge/80%20%2F%20100-success"/> |  |  |
+| cub3d |  |  |  |  |
+| inception |  |  |  |  |
+| cpp_modules05-09 |  |  |  |  |
+| webserv |  |  |  |  |
+| ft_trascendence |  |  |  |  |
 
 </div>
 
