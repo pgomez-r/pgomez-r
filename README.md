@@ -7,7 +7,7 @@
 
 ### My 42-cursus repo [pgomez-r] Still in progress (Click image bellow)
 
-[![REPO_42](https://github.com/pgomez-r/pgomez-r/assets/115219064/bebb8fa9-7411-4f7b-b170-ff8fa98c1f7b)]
+[![REPO_42](https://github.com/pgomez-r/pgomez-r/assets/115219064/bebb8fa9-7411-4f7b-b170-ff8fa98c1f7b)](https://github.com/pgomez-r/42M)
 
 ## Skill Set 
 
