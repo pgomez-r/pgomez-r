@@ -50,7 +50,7 @@
 [![Learning / Interested in](https://skillicons.dev/icons?i=py,selenium,django,java,docker,html,css,js&perline=12)](https://skillicons.dev)
 </div>
 
-## **42 Málaga Progress**  
+## **42 Málaga Projects**  
 
 <div align="center">
 
