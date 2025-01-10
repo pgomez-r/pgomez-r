@@ -82,6 +82,7 @@
     <img src="https://badge.mediaplus.ma/colorfulwaves/pgomez-r" alt="Image 1" style="width:45%;">
   </a>
   <a href="https://github.com/pgomez-r/42M">
-    <img src="https://github.com/pgomez-r/pgomez-r/assets/115219064/88a56ee8-e826-425e-a03e-afea29dfe660" alt="Image 2" style="width:29%;">
+    <img src="https://github.com/user-attachments/assets/beb1abdf-71f8-4cbb-aedb-a41a74cab406" alt="Image 2" style="width:29%;">
+    
   </a>
 </div>
