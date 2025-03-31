@@ -40,14 +40,14 @@
 
 <div align="center">
 
-[![Current Skills](https://skillicons.dev/icons?i=c,cpp,bash,linux,vim,notion,vscode,atom,git,github&perline=12)](https://skillicons.dev)
+[![Current Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,typescript,docker,bash,linux,vim,notion,vscode,atom,git,github&perline=8)](https://skillicons.dev)
 </div>
 
 ### Learning / Interested in
 
 <div align="center">
 
-[![Learning / Interested in](https://skillicons.dev/icons?i=py,selenium,django,java,docker,html,css,js&perline=12)](https://skillicons.dev)
+[![Learning / Interested in](https://skillicons.dev/icons?i=py,selenium,django,java,php,nodejs&perline=8)](https://skillicons.dev)
 </div>
 
 ## **42 Málaga Projects**  
